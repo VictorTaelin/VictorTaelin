@@ -1,0 +1,69 @@
+Bem-vindo(a) à minha mente. Interessado?
+
+STATE
+=====
+
+- Projeto Kindelia
+  - Kind2
+    - DONE NbE
+    - TODO type-checker
+  - Kindelia
+    - WAIT Kind2
+    - TODO tudo
+  - Candidatos
+    - Teste de raciocínio
+      - WAIT front/back funcionando (Rheidner)
+      - TODO formular questões
+      - TODO aplicar teste aos inscritos 
+      - TODO selecionar para calls
+  - Sipher e Derenash
+    - TODO aulas caóticas - 2h/dia?
+  - Rígille
+    - TODO conversar: vinda pra SP
+  - Coelho
+    - TODO conversar: aplicar teste
+  - Miguel
+    - TODO conversar: interessado, porém não pode remoto
+  - Rheidner
+    - TODO conversar: saída ou permanência
+- UwU Tech
+  - Tiago e Kelvin
+    - Farão estruturas imutáveis no HVM: https://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki
+    - TODO formalizar
+  - Lucas
+    - Manterá fazendo sprites
+    - TODO planejar sprites do próximo jogo, pedir para adiantá-los
+  - TODO definir como será o tracking
+- Pessoal
+  - TODO prolongar estadia hotel
+  - TODO compras: cortador de unha, gilete, ketchup, congelados, biscoitos, água
+- Calendar
+  - 03-03 15h: conversa (calendar)
+  - 03-09 15h: meeting (email)
+  - 03-19 00h: 2v
+  - 03-20 00h: 2v
+  - 04-08 14h: palestra na UFMG https://dcc.ufmg.br/palestra-a-kind-devils-thesis-victor-taelin/
+  - 04-13 19h: palestra no Codecon (via Twitter)
+
+TRACK
+=====
+
+2022-03-01
+----------
+
+Criei o track.txt.
+
+2022-02-28
+----------
+
+Passei o dia pensando sobre como fazer o type-checker no HVM. Melhorias no Kind2.
+Sipher e Derenash chegaram em SP.
+
+2022-02-27
+----------
+
+Feito NbE no HVM. Soluções interessantes, problemas antigos resolvidos.
+https://gist.github.com/VictorTaelin/e3af57447091db7e846d4cd1a03ffa54
+
+
+
