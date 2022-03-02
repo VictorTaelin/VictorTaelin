@@ -16,6 +16,9 @@ STATE
       - TODO formular questões
       - TODO aplicar teste aos inscritos 
       - TODO selecionar para calls
+  - Web
+    - Finalizar o blog
+    - Passar os posts antigos do Medium para o novo blog
   - Sipher e Derenash
     - TODO aulas caóticas - 2h/dia?
   - Rígille
@@ -52,6 +55,9 @@ TRACK
 ----------
 
 Criei o track.txt.
+
+Feito type-checker dependente no HVM!
+https://gist.github.com/VictorTaelin/768d84b1409617872a1a53fec990c670
 
 2022-02-28
 ----------
