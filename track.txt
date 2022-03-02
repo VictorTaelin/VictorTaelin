@@ -4,6 +4,8 @@ STATE
 =====
 
 - Projeto Kindelia
+  - HVM
+    - Fazer o collect() tail-recursivo (stack overflows)
   - Kind2
     - DONE NbE
     - TODO type-checker
