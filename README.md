@@ -1,4 +1,4 @@
-# λ Victor. Taelin
+# λVictor. Taelin
 
 I'm a passionate 29-year-old programmer. I've wrote my first code at 11, my
 [first](https://www.youtube.com/watch?v=iGsQe6-un3s) and
