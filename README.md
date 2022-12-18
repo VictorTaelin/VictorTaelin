@@ -10,5 +10,5 @@ worked on [Orama](https://orama.com.br), [Stone](http://stone.com.br), and the
 [Kind](https://github.com/kindelia/kind) and
 [HVM](https://github.com/kindelia/hvm).
 
-- [Twitch](https://twitch.com/victortaelin) | [Twitter](https://twitter.com/victortaelin) | [Instagram](https://instagram.com/victaelin) | [Email](mailto:victor.taelin@gmail.com)
+- [Twitch](https://twitch.com/victortaelin) | [Twitter](https://twitter.com/victortaelin) | [Mastodon](https://sigmoid.social/@VictorTaelin) | [Instagram](https://instagram.com/victaelin) | [Email](mailto:victor.taelin@gmail.com)
 
