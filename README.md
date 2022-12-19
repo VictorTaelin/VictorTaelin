@@ -8,7 +8,7 @@ Hi! I'm a programmer and founder of the [Kindelia](http://github.com/kindelia) p
 
 - [Kindelia](https://github.com/kindelia/kindelia), a p2p computer.
 
-Reach me on:
+As well as several open source projects on my profile. Reach me on:
 - Twitch: [@victortaelin](https://twitch.com/victortaelin)
 - Twitter: [@victortaelin](https://twitter.com/victortaelin)
 - Mastodon: [@sigmoid.social@victortaelin](https://sigmoid.social/@VictorTaelin)
