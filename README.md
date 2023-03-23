@@ -1,4 +1,4 @@
-# GM Taelin
+# Taelin
 
 Hi! I'm a programmer and founder of the [HigherOrderCO](http://github.com/HigherOrderCO). Reach me on:
 - Twitter: [@victortaelin](https://twitter.com/victortaelin)
