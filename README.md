@@ -8,4 +8,4 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](http://github.com/Higher
 
 ## Posts
 
-- [Implementing complex numbers and FFT with ADTs (no floats)](https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c)
+- [Implementing complex numbers and FFT with just datatypes (no floats)](https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c)
