@@ -4,7 +4,7 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - Twitter: [@victortaelin](https://twitter.com/victortaelin)
 - Instagram: [@victortaelin](https://instagram.com/victortaelin)
 - Reddit: [SrPeixinho](https://www.reddit.com/user/SrPeixinho/)
-- - Email: [taelin@higherorderco.com](mailto:taelin@higherorderco.com)
+   Email: [taelin@higherorderco.com](mailto:taelin@higherorderco.com)
 
 ## Gist Blog
 
