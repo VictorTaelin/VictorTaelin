@@ -3,8 +3,8 @@
 Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.com). Reach me on:
 - Twitter: [@victortaelin](https://twitter.com/victortaelin)
 - Instagram: [@victortaelin](https://instagram.com/victortaelin)
-- Email: [taelin@higherorderco.com](mailto:taelin@higherorderco.com)
 - Reddit: [SrPeixinho](https://www.reddit.com/user/SrPeixinho/)
+- - Email: [taelin@higherorderco.com](mailto:taelin@higherorderco.com)
 
 ## Gist Blog
 
