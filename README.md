@@ -15,3 +15,5 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - [A simple SAT solver using Interaction Net superpositions](https://gist.github.com/VictorTaelin/9061306220929f04e7e6980f23ade615)
 
 - [Can a simple functional sieve be fast? Optimizing Tromp's algorithm on HVM.](https://gist.github.com/VictorTaelin/a5571afaf5ee565689d2b9a981bd9df8)
+
+- [Kind2's Conversion Checker](https://gist.github.com/VictorTaelin/3f748a46e95071e29462b1ac93c294c5)
