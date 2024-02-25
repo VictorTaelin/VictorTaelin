@@ -6,7 +6,7 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - Reddit: [SrPeixinho](https://www.reddit.com/user/SrPeixinho/)
 - Email: [taelin@higherorderco.com](mailto:taelin@higherorderco.com)
 
-## Gist Blog
+## Notes
 
 - [You can increase GPT-4's context size by asking it to compress your prompts](https://gist.github.com/VictorTaelin/d293328f75291b23e203e9d9db9bd136)
 
