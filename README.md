@@ -24,3 +24,5 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - [Bend - Release Day!](https://x.com/VictorTaelin/status/1791213162525524076)
 
 - [Higher-Order Company: Towards an Optimal Computer](https://gist.github.com/VictorTaelin/46936b9fdfc3f982f07963c11756e36b)
+
+- [Fast Discrete Program Search with HVM superpositions](https://gist.github.com/VictorTaelin/d5c318348aaee7033eb3d18b0b0ace34)
