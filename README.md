@@ -25,6 +25,8 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 
 - [Higher-Order Company: Towards an Optimal Computer](https://gist.github.com/VictorTaelin/46936b9fdfc3f982f07963c11756e36b)
 
+- [Higher-Order Company: Historical Overview](https://gist.github.com/VictorTaelin/77fd5a2a8a4a07e1da6157ebca3c7cf1)
+
 - [Fast Discrete Program Search with HVM superpositions](https://gist.github.com/VictorTaelin/d5c318348aaee7033eb3d18b0b0ace34)
 
 - [Optimal Evaluation in 1 Minute (or 10 Minutes) (or 10 Years)](https://gist.github.com/VictorTaelin/311f6a58a7756945196c15733e61d0c6)
