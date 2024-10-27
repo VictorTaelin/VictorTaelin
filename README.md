@@ -6,7 +6,7 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - Reddit: [SrPeixinho](https://www.reddit.com/user/SrPeixinho/)
 - Email: [taelin@higherorderco.com](mailto:taelin@higherorderco.com)
 
-# Materials
+Materials
 
 ## Company:
 
@@ -18,7 +18,7 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 
 - [HVM: how?](https://github.com/HigherOrderCO/HVM/blob/73da3bbc4b222fb8f044fcc5dad202e9752a0abc/HOW.md): an intuitive explanation on how HVM works.
 - [HVM: Optimal Evaluation in 10 Minutes](https://gist.github.com/VictorTaelin/311f6a58a7756945196c15733e61d0c6): same as above, but shorter and more serious.
-- [HVM: A Parallel Runtime - VictorTaelin @ GambiConf (USP)](https://www.youtube.com/watch?v=sDPuQ-UjhVQ): same as above, but as a pedagogical talk (with English subs).
+- [HVM: A Parallel Runtime - VictorTaelin (USP)](https://www.youtube.com/watch?v=sDPuQ-UjhVQ): same as above, but as a pedagogical talk (with English subs).
 - [HVM: The mystery behind Optimal Evaluation](https://gist.github.com/VictorTaelin/85b94b5ba5b8b5440ded64bba8c89ac2): why some functions run exponentially faster on HVM.
 - [HVM: Automatic Deforestation](https://github.com/HigherOrderCO/HVM/issues/167#issuecomment-1314665474): β-Optimality gives fusion "for free"
 - [Kind: Conversion Checker](https://gist.github.com/VictorTaelin/3f748a46e95071e29462b1ac93c294c5): notes on Kind's equality algorithm
@@ -41,4 +41,3 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - [Mind-bending new programming language for GPUs just dropped... - Fireship](https://www.youtube.com/watch?v=HCOQmKTFzYY)
 - [The New Massively Parallel Language - ThePrimeTimeagen](https://www.youtube.com/watch?v=NaytZOiX3fs)
 - [Bend: a high-level language that runs on GPUs - HackerNews](https://news.ycombinator.com/item?id=40390287) 
-
