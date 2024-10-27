@@ -12,7 +12,7 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 
 - [HOC: Towards an Optimal Computer](https://gist.github.com/VictorTaelin/46936b9fdfc3f982f07963c11756e36b): why interaction paradigm can improve computers.
 - [HOC: Can we build an optimal processor?](https://x.com/VictorTaelin/status/1806690584670679387): like above, but as a tweet.
-- [HOC: Complete Historical Overview](https://gist.github.com/VictorTaelin/77fd5a2a8a4a07e1da6157ebca3c7cf1): lore and everything that happened and resulted in HOC's creation.
+- [HOC: Complete Historical Overview](https://gist.github.com/VictorTaelin/77fd5a2a8a4a07e1da6157ebca3c7cf1): the lore behind HOC's creation.
 
 ## Learning:
 
