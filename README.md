@@ -29,6 +29,6 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 
 - [Fast Discrete Program Search with HVM superpositions #1](https://gist.github.com/VictorTaelin/d5c318348aaee7033eb3d18b0b0ace34) (add-carry with template)
 
-- [Fast Discrete Program Search with HVM superpositions #2](https://gist.github.com/VictorTaelin/7fe49a99ebca42e5721aa1a3bb32e278) (bits functions with simple DSL)
+- [Fast Discrete Program Search with HVM superpositions #2](https://gist.github.com/VictorTaelin/7fe49a99ebca42e5721aa1a3bb32e278) (bits fns with simple DSL)
 
 - [Optimal Evaluation in 1 Minute (or 10 Minutes) (or 10 Years)](https://gist.github.com/VictorTaelin/311f6a58a7756945196c15733e61d0c6)
