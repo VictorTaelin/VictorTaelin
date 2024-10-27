@@ -23,6 +23,8 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 
 - [Bend - Release Day!](https://x.com/VictorTaelin/status/1791213162525524076)
 
+- [Automatic Deforestation on HVM](https://github.com/HigherOrderCO/HVM/issues/167#issuecomment-1314665474)
+
 - [Higher-Order Company: Towards an Optimal Computer](https://gist.github.com/VictorTaelin/46936b9fdfc3f982f07963c11756e36b)
 
 - [Higher-Order Company: Historical Overview](https://gist.github.com/VictorTaelin/77fd5a2a8a4a07e1da6157ebca3c7cf1)
