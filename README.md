@@ -6,8 +6,6 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - Reddit: [SrPeixinho](https://www.reddit.com/user/SrPeixinho/)
 - Email: [taelin@higherorderco.com](mailto:taelin@higherorderco.com)
 
-# Materials
-
 ## Company:
 
 - [HOC: Towards an Optimal Computer](https://gist.github.com/VictorTaelin/46936b9fdfc3f982f07963c11756e36b): why interaction paradigm can improve computers.
