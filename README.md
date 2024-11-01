@@ -24,11 +24,13 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 ## Research:
 
 - [GPT-4: Increase context via compression](https://gist.github.com/VictorTaelin/d293328f75291b23e203e9d9db9bd136): a meme-ish post that went viral
+- [HVM: A Parallel Evaluator for Interaction Combinators](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/HigherOrderCO/HVM/main/paper/HVM2.pdf): the complete HVM2 specification
 - [HVM: Optimizing a Prime Sieve](https://gist.github.com/VictorTaelin/a5571afaf5ee565689d2b9a981bd9df8): explores linearity techniques
 - [HVM: Implementing FFT with λ-terms](https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c): explores linearity techniques
 - [HVM: Implementing a simple SAT solver](https://gist.github.com/VictorTaelin/9061306220929f04e7e6980f23ade615): explains SUP/DUP nodes
 - [HVM: Fast Discrete Program Search #1](https://gist.github.com/VictorTaelin/d5c318348aaee7033eb3d18b0b0ace34): finds the add-carry function given a template
-- [HVM: Fast Discrete Program Search #2](https://gist.github.com/VictorTaelin/7fe49a99ebca42e5721aa1a3bb32e278): finds bits functions enumerating a simple DSL 
+- [HVM: Fast Discrete Program Search #2](https://gist.github.com/VictorTaelin/7fe49a99ebca42e5721aa1a3bb32e278): finds bits functions enumerating a simple DSL
+- [HVM: Optimal Atomic Linker (with Polarization)](https://gist.github.com/VictorTaelin/2aba162f2b04478dc53e5615f482db7b): the optimal linker, featured on HVM3
 
 ## Announcements:
 
