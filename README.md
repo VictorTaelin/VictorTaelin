@@ -32,6 +32,7 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - [HVM: Fast Discrete Program Search #2](https://gist.github.com/VictorTaelin/7fe49a99ebca42e5721aa1a3bb32e278): finds bits functions enumerating a simple DSL
 - [HVM: Optimal Atomic Linker (with Polarization)](https://gist.github.com/VictorTaelin/2aba162f2b04478dc53e5615f482db7b): the optimal linker, featured on HVM3
 - [HVM: Truly Optimal Evaluation with Unordered Superpositions](https://gist.github.com/VictorTaelin/93c327e5b4e752b744d7798687977f8a): solving HVM O(n^2) cases
+  [HVM: The Collapse Monad in Haskell](https://gist.github.com/VictorTaelin/60d3bc72fb4edefecd42095e44138b41): flattens a collapsed value to a list
 
 ## Announcements:
 
