@@ -30,7 +30,7 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - [HVM: Implementing a simple SAT solver](https://gist.github.com/VictorTaelin/9061306220929f04e7e6980f23ade615): explains SUP/DUP nodes
 - [HVM: Fast Discrete Program Search #1](https://gist.github.com/VictorTaelin/d5c318348aaee7033eb3d18b0b0ace34): finds the add-carry function given a template
 - [HVM: Fast Discrete Program Search #2](https://gist.github.com/VictorTaelin/7fe49a99ebca42e5721aa1a3bb32e278): finds bits functions enumerating a simple DSL
-- [HVM: Fast Discrete Program Search #3](https://gist.github.com/VictorTaelin/7c4c69a1f07b5c668be613f1032e7d4e): how to enumerate λ-terms
+- [HVM: Fast Discrete Program Search #3](https://gist.github.com/VictorTaelin/7c4c69a1f07b5c668be613f1032e7d4e): how to enumerate superposed λ-terms
 - [HVM: Optimal Atomic Linker (with Polarization)](https://gist.github.com/VictorTaelin/2aba162f2b04478dc53e5615f482db7b): the optimal linker, featured on HVM3
 - [HVM: Truly Optimal Evaluation with Unordered Superpositions](https://gist.github.com/VictorTaelin/93c327e5b4e752b744d7798687977f8a): solving HVM O(n^2) case
 - [HVM: The Collapse Monad in Haskell](https://gist.github.com/VictorTaelin/60d3bc72fb4edefecd42095e44138b41): flattens a collapsed value to a list
