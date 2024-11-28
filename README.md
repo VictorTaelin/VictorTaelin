@@ -33,6 +33,7 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - [HVM: Optimal Atomic Linker (with Polarization)](https://gist.github.com/VictorTaelin/2aba162f2b04478dc53e5615f482db7b): the optimal linker, featured on HVM3
 - [HVM: Truly Optimal Evaluation with Unordered Superpositions](https://gist.github.com/VictorTaelin/93c327e5b4e752b744d7798687977f8a): solving HVM O(n^2) case
 - [HVM: The Collapse Monad in Haskell](https://gist.github.com/VictorTaelin/60d3bc72fb4edefecd42095e44138b41): flattens a collapsed value to a list
+- [HVM: Optimal Recursive Context Passing with "Pure MutRef"](https://gist.github.com/VictorTaelin/a086d1a52a7d0e8c641c93a02b623e7b)
 
 ## Announcements:
 
