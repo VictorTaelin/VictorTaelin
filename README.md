@@ -35,6 +35,7 @@ Hi! I'm a programmer and founder of the [HigherOrderCO](https://higherorderco.co
 - [HVM: Truly Optimal Evaluation with Unordered Superpositions](https://gist.github.com/VictorTaelin/93c327e5b4e752b744d7798687977f8a): solving HVM O(n^2) case
 - [HVM: The Collapse Monad in Haskell](https://gist.github.com/VictorTaelin/60d3bc72fb4edefecd42095e44138b41): flattens a collapsed value to a list
 - [HVM: Optimal Linear Context Passing](https://gist.github.com/VictorTaelin/fb798a5bd182f8c57dd302380f69777a): optimization tricks and pure mutable refs
+- [Rotating an 1D space with binary trees](https://gist.github.com/VictorTaelin/c672b5bd9e734bae63ac35c010be38ab): just a quick memo of this algorithm
 - [Theory: Equality on Recursive λ-Terms](https://gist.github.com/VictorTaelin/1af22e2c87f176da0e5ff8cd3430b04f): equality on expressions with fixed points
 
 ## Announcements:
